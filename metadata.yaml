@@ -1,5 +1,8 @@
 _repo: Le-the-chez-Miranda_63167
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 63167-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Moréas, Jean
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5
     wikipedia: https://de.wikipedia.org/wiki/Paul_Adam_(Buchbinder)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63167#Le-the-chez-Miranda
 gutenberg_issued: '2020-09-10'
 gutenberg_type: Text
 identifiers:
